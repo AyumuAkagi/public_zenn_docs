@@ -64,7 +64,7 @@ LLMにおけるガードレールは、大きく分けて以下の5つのカテ�
 - ユーザーの質問とAIの応答の両方を分析し、有害またはポリシーに違反するコンテンツを識別する機能を持つ。
 - 既存のモデレーションツールと比較して[高いパフォーマンスを示す](https://ar5iv.labs.arxiv.org/html/2312.06674v1)。
     - OpenAIのModeration APIとGoogleのPerspective APIやMicrosoftのAzure Content Safety APIと比較して
-- ### **[Lakera Guard](https://www.lakera.ai/)**
+### **[Lakera Guard](https://www.lakera.ai/)**
 - 即座にLLMアプリケーションを安全・セキュリティの脅威から保護するツール
 - プロンプトインジェクション、データ損失、有害コンテンツなどのリスクに対応している。
 - 1行のコードで簡単に導入できる、毎日10万件以上の新しい脅威情報をデータベースに追加しており、これによりAIのセキュリティが日々強化される。
